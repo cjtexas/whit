@@ -1,0 +1,14 @@
+Package: whit
+Type: Package
+Title: 
+Version: 0.0.0
+Author: Caleb Jenkins
+Maintainer: cjtexas <calebajenkins@gmail.com>
+Description: 
+License: AGPL
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    MASS,
+    R6
+RoxygenNote: 7.3.1
