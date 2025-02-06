@@ -5,7 +5,7 @@ Version: 0.0.0
 Author: Caleb Jenkins
 Maintainer: cjtexas <calebajenkins@gmail.com>
 Description: 
-License: AGPL
+License: AGPL (>= 3)
 Encoding: UTF-8
 LazyData: true
 Imports: 
